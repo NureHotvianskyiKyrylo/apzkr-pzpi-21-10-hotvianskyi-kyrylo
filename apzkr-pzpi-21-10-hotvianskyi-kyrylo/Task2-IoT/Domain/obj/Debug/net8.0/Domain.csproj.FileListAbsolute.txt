@@ -1,0 +1,11 @@
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\bin\Debug\net8.0\Domain.dll
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\bin\Debug\net8.0\Domain.pdb
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\obj\Debug\net8.0\Domain.dll
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\obj\Debug\net8.0\Domain.pdb
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Domain\obj\Debug\net8.0\ref\Domain.dll

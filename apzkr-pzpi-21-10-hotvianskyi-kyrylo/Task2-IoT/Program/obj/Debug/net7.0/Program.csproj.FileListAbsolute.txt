@@ -1,0 +1,54 @@
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\bin\Debug\net7.0\Program.exe
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\bin\Debug\net7.0\Program.deps.json
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\bin\Debug\net7.0\Program.dll
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\bin\Debug\net7.0\Program.pdb
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\bin\Debug\net7.0\Domain.dll
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\bin\Debug\net7.0\Domain.pdb
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.csproj.CopyComplete
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.dll
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\refint\Program.dll
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.pdb
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+E:\NURE\5 semester\АТАРК\ЛБ4(IoT)\IoT\Program\obj\Debug\net7.0\ref\Program.dll
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\bin\Debug\net7.0\Program.exe
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\bin\Debug\net7.0\Program.deps.json
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\bin\Debug\net7.0\Program.dll
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\bin\Debug\net7.0\Program.pdb
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\bin\Debug\net7.0\Domain.dll
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\bin\Debug\net7.0\Domain.pdb
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.csproj.CopyComplete
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.dll
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\refint\Program.dll
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.pdb
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+E:\NURE\5 semester\АТАРК\ЛБ3(IoT)\IoT\Program\obj\Debug\net7.0\ref\Program.dll
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\bin\Debug\net7.0\Program.exe
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\bin\Debug\net7.0\Program.deps.json
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\bin\Debug\net7.0\Program.dll
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\bin\Debug\net7.0\Program.pdb
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\bin\Debug\net7.0\Domain.dll
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\bin\Debug\net7.0\Domain.pdb
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.csproj.Up2Date
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.dll
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\refint\Program.dll
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.pdb
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+E:\NURE\6 semester\АПЗ\ЛБ 3\IoT\Program\obj\Debug\net7.0\ref\Program.dll
